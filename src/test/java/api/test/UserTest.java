@@ -48,7 +48,7 @@ public class UserTest {
 	Assert.assertEquals(res.getStatusCode(), 200);
 	logger.info("************** User is Created *****************");
 	 logger.debug("detailed payload: {}");
-	
+	System.out.println("Now I have updated just for git practice");
  	}
 	
 	
